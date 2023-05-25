@@ -1,0 +1,55 @@
+Before anything
+	1-  Study HTML & CSS from this playlist
+		https://www.youtube.com/playlist?list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F
+		and then you can check this link to extend your knowledge
+		https://www.w3schools.com/
+	2-  Download postman software
+
+
+Task 1
+---------
+Scrap the USD To EGP Exchange rate from this website
+https://www.exchangerates.org.uk/Dollars-to-Egyptian-Pounds-currency-conversion-page.html
+and then use it to make a software that takes amount of USD Dollars from the user and calculate how much will it cost in EGP.
+
+
+
+Task 2
+---------
+Scrap the weather temperature, humidity, visibility, air pressure, wind speed, datetime data from this website
+https://eg.freemeteo.com/weather/cairo/current-weather/location/?gid=360630&language=english&country=egypt
+for 10 times one read in a minute (so basicly the process takes 10 minutes)
+and put them into a CSV & Excel file
+
+
+
+Task 3
+---------
+Scrap the books (name, price, rate) for each category and put them into a CSV & Excel file
+https://books.toscrape.com/
+
+
+
+Task 4
+---------
+Get the USD To EUR Exchange rate from this web service
+https://api.frankfurter.app/latest?amount=1&from=USD&to=EUR
+and then use it to make a software that takes amount of USD Dollars from the user and calculate how much will it cost in EUR.
+hint: take a look on the url of the service can you guess how I can modify it to calculate the 10$ for EUR for example ?!
+
+
+
+Task 5
+---------
+Use this web service 
+https://www.metaweather.com/api/location/1521894/
+one time for 3 different days in this week 
+and make a program that get the weather temperature, humidity, visibility, air pressure, wind speed & datetime and save each day data in a CSV & Excel file.
+
+
+
+Task 6
+---------
+Use this web service 
+https://jsonplaceholder.typicode.com/users
+and make a program that get all users data including name, username, email, street, suite, city, zip code, geo_lat & geo_long and then save them in a CSV & Excel file.

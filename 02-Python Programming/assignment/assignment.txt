@@ -1,0 +1,30 @@
+There are 5 tasks
+
+1) Create 2 jupyter notebooks and write a code to output the circumference of the circle in one notebook and another for a rectangle.
+
+
+2.1) Solve the Python Data types Task
+	1-Objects and Data Structures Assessment.ipynb
+	
+
+2.2) Solve the Python Files Task
+	1- Open a file, name it 'test.txt' and write 'hello world' for 5 times in it then close it.
+	2- Read the contents of the file, then make content in uppercase then write the result again to the file.
+	3- Read the third line of the file then update it to its capital case using capitalize.
+	4- Using With Statement open this file and append 'I Love python' to it.
+
+
+3) Solve the Python Statements Task
+	2-Statements Assessment.ipynb
+
+
+4) Solve the Functions Task
+	3-Functions and Methods Assessment part 1.ipynb
+	3-Functions and Methods Assessment part 2.ipynb
+
+
+
+5) Make project like Thanos project with data (50 images) to read all files and rename these files with random names.
+
+
+

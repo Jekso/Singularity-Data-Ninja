@@ -1,0 +1,3 @@
+https://www.w3resource.com/python-exercises/
+https://github.com/darkprinx/break-the-ice-with-python
+https://www.geeksforgeeks.org/python-programming-examples/

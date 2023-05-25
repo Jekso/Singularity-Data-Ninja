@@ -1,0 +1,6 @@
+Just install Anaconda Python version 3 from here
+https://www.anaconda.com/products/individual
+
+and Visual Code from here
+https://code.visualstudio.com/
+

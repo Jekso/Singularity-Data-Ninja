@@ -1,0 +1,18 @@
+Find a problem with a dataset from your choice, you can get the data from any source (scraping-API-Kaggle)
+and start the EDA process.
+
+
+Before you start make a new folder with your project name for example 'Salaries EDA', and the folder contains the data rename it to 'data.csv' & the jupyter notebook rename it to 'EDA.ipynb', 
+If you scrap the data or use an API make sure you put the code in a separate notebook and call it 'Data_Collecting.ipynb' in the same folder
+
+
+
+
+Notebook sections
+---------------------------------------
+1- Make a Business domain section describing using markdown cell the problem you try to analyze.
+2- Make a Dataset section describing using markdown cell the dataset description.
+3-  Make a section using markdown cell for all the questions you try to ask to analyze the data (for ex. what is the average price of all products categories) something like that, and don't forget the questions should cover some Univariate, Bivariate & Multivariate questions
+4- Load the dataset
+5- Start answering every question you asked before by using pandas and seaborn so basically I need how you answer the question in a table form and a graph form, finally describe what you notice in the table & the graph feel free to write with your own words (7ta lw htshtm el client xD) and also you can give him some advices but not required
+6- After finishing the project compress the whole folder using WinRAR software or any other software and then upload the compressed file on Google classroom assignment.
